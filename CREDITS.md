@@ -5,6 +5,8 @@ following names for their contribution to the project.
 
 ## Contributors
 <!-- BEGIN CONTRIBUTOR LIST -->
+* niuhuan
 * rabbitkiller-dev (rabbitkiller)
 * RogenDong (6uopdong)
+* WinstonSung (Winston Sung)
 <!-- END CONTRIBUTOR LIST -->
